@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/pWmxMLzQ)
 # pro3.global|local-Aln
-<your name + student ID>
+<113754001黃宇秀>
 
 ## Description
 
@@ -68,14 +68,8 @@ The correct answer gets 10 points for each testing data.
 * High code similarity to others: YOUR SCORE = 0
 
 ## References
-Please provide the code along with its reference. For example, you can cite it as: ```# ChatGPT, respond to “your prompt,” on February 16, 2023```. Below is an example of a reference format summarizing the use of ChatGPT for R programming
-
->You are the R Language expert.
->Please help me to write a function called “k_fold”.
->Using a given dataset to train the random forest model, and using the k-fold cross-validation to evaluate the best model parameters. Here is the instruction for the function requirements:\
->Function name: k_fold\
->Function parameters:
-
+Chat gpt: https://chatgpt.com/share/67321032-b0e8-8003-a0aa-5c1f320a53f5
+        https://chatgpt.com/share/6732107e-1ea0-8003-b393-126d586aac01
 
 
 
